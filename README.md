@@ -82,6 +82,23 @@ llm-contextual-chatbot/
 ├── .gitignore
 └── README.md
 ```
+## Application Screenshots
+
+### Chatbot Interface
+
+![Chatbot Home](screenshots/chatbot-home.jpeg)
+
+### Multi-turn Conversation
+
+![Conversation Context](screenshots/conversation-context.png)
+
+### Context Retention and Memory
+
+![Memory Test](screenshots/memory-test.png)
+
+### Error Handling
+
+![Backend Error Handling](screenshots/error-handling.png)
 
 ## Features
 
